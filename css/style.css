@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#home {
+    height: 300px;
+    width: 100vw;
+    background: indianred;
+}
+
+#about {
+    height: 300px;
+    width: 100vw;
+    background: lightcoral;
+}
+
+#portfolio {
+    height: 300px;
+    width: 100vw;
+    background: salmon;
+}
+
+#contact { 
+    height: 300px;
+    width: 100vw;
+    background: rosybrown;
+}
